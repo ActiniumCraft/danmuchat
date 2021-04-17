@@ -1,0 +1,18 @@
+danmuchat
+------
+
+这是一个通过读取弹幕姬工作日志同步服务器订阅的直播间弹幕到聊天栏的暴力插件
+
+!!danmu §r显示帮助信息
+
+!!danmu toggle §r切换全局弹幕日志监听状态
+
+!!danmu sub <player> §r切换名为<player>的玩家的弹幕订阅状态
+
+运行库需求
+------
+os
+time
+json
+re
+watchdog
