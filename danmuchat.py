@@ -22,7 +22,7 @@ danmu_sub_list = set('Shamil_Sawaumi')
 danmu_connection = False
 server_temp = ''
 help_msg = '''
-================== §bBotKikai §r==================
+================== §bDanmu Chat §r==================
 §l这是一个通过读取弹幕姬工作日志同步服务器订阅的直播间弹幕到聊天栏的暴力插件
 §6Github: https://github.com/ShamilSawaumi/danmuchat
 §7!!danmu §r显示本帮助信息
