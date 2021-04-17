@@ -9,13 +9,13 @@ from watchdog.observers import Observer
 from watchdog.events import *
 
 PLUGIN_METADATA = {
-	'id': 'danmuc',
+	'id': 'danmuchat',
 	'version': '0.0.1',
-	'name': 'danmuc',
+	'name': 'danmuchat',
 	'author': [
 		'Shamil_Sawaumi'
    ],
-	'link': '没'
+	'link': 'https://github.com/ShamilSawaumi/danmuchat'
 }
 
 danmu_sub_list = set('Shamil_Sawaumi')
@@ -24,7 +24,7 @@ server_temp = ''
 help_msg = '''
 ================== §bBotKikai §r==================
 §l这是一个通过读取弹幕姬工作日志同步服务器订阅的直播间弹幕到聊天栏的暴力插件
-§6Git还没上，等我吃完了米
+§6Github: https://github.com/ShamilSawaumi/danmuchat
 §7!!danmu §r显示本帮助信息
 §7!!danmu toggle §r切换全局弹幕日志监听状态
 §7!!danmu sub <player> §r切换名为<player>的玩家的弹幕订阅状态
