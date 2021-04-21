@@ -11,13 +11,5 @@ danmuchat
 
 运行库需求
 ------
-os
-
-time
-
-json
-
-re
-
-watchdog
+watchdog 监视文件系统事件
 
