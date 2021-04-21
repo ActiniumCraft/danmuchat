@@ -7,7 +7,7 @@ danmuchat
 
 !!danmu toggle 切换全局弹幕日志监听状态
 
-!!danmu sub <player> 切换名为<player>的玩家的弹幕订阅状态
+!!danmu sub [player] 切换名为[player]的玩家的弹幕订阅状态
 
 运行库需求
 ------
